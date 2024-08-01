@@ -15,7 +15,7 @@ const Home: React.FC = async () => {
   return (
     <div>
       <h1>Current booking count: {bookings.length}</h1>
-
+      test
     </div>
   );
 };
